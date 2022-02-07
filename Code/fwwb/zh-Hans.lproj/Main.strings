@@ -1,0 +1,213 @@
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "08u-7s-ino"; */
+"08u-7s-ino.normalTitle" = "注册";
+
+/* Class = "UILabel"; text = "为您识别到："; ObjectID = "1fN-IG-Lwe"; */
+"1fN-IG-Lwe.text" = "为您识别到：";
+
+/* Class = "UILabel"; text = "price"; ObjectID = "26f-y3-JwZ"; */
+"26f-y3-JwZ.text" = "price";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "3Jz-CY-uNw"; */
+"3Jz-CY-uNw.text" = "Name";
+
+/* Class = "UISegmentedControl"; 3Zj-4e-wdZ.segmentTitles[0] = "中文"; ObjectID = "3Zj-4e-wdZ"; */
+"3Zj-4e-wdZ.segmentTitles[0]" = "中文";
+
+/* Class = "UISegmentedControl"; 3Zj-4e-wdZ.segmentTitles[1] = "日本語"; ObjectID = "3Zj-4e-wdZ"; */
+"3Zj-4e-wdZ.segmentTitles[1]" = "日本語";
+
+/* Class = "UINavigationItem"; title = "自游助手"; ObjectID = "5We-EH-YK3"; */
+"5We-EH-YK3.title" = "自游助手";
+
+/* Class = "UINavigationItem"; title = "识图翻译"; ObjectID = "5ta-OV-YXH"; */
+"5ta-OV-YXH.title" = "识图翻译";
+
+/* Class = "UILabel"; text = "请使用您常用的邮箱注册自游助手"; ObjectID = "61l-Xf-lxj"; */
+"61l-Xf-lxj.text" = "请使用您常用的邮箱注册自游助手";
+
+/* Class = "UITextView"; text = "transfer_desc"; ObjectID = "79H-qE-Sjx"; */
+"79H-qE-Sjx.text" = "transfer_desc";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8db-SM-xQY"; */
+"8db-SM-xQY.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "e-mail地址"; ObjectID = "8md-rA-Bi3"; */
+"8md-rA-Bi3.text" = "e-mail地址";
+
+/* Class = "UILabel"; text = "地区选择"; ObjectID = "A6u-cO-G2b"; */
+"A6u-cO-G2b.text" = "地区选择";
+
+/* Class = "UIButton"; normalTitle = "在线翻译"; ObjectID = "CzB-b4-esN"; */
+"CzB-b4-esN.normalTitle" = "在线翻译";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "DyL-qx-YES"; */
+"DyL-qx-YES.text" = "Name";
+
+/* Class = "UIViewController"; title = "注册"; ObjectID = "E3p-9u-DKa"; */
+"E3p-9u-DKa.title" = "注册";
+
+/* Class = "UILabel"; text = "hot_level"; ObjectID = "FmR-EL-VLu"; */
+"FmR-EL-VLu.text" = "hot_level";
+
+/* Class = "UILabel"; text = "密码"; ObjectID = "HOj-Ay-3md"; */
+"HOj-Ay-3md.text" = "密码";
+
+/* Class = "UIButton"; normalTitle = "点击翻译"; ObjectID = "J8j-zV-cRK"; */
+"J8j-zV-cRK.normalTitle" = "点击翻译";
+
+/* Class = "UILabel"; text = "Translation"; ObjectID = "JHX-jU-6kI"; */
+"JHX-jU-6kI.text" = "Translation";
+
+/* Class = "UIButton"; normalTitle = "获取验证码"; ObjectID = "KNW-1X-S2D"; */
+"KNW-1X-S2D.normalTitle" = "获取验证码";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "KNZ-Th-lL7"; */
+"KNZ-Th-lL7.text" = "Result";
+
+/* Class = "UILabel"; text = "这里是佛系小组"; ObjectID = "Llf-Vr-hsQ"; */
+"Llf-Vr-hsQ.text" = "这里是佛系小组";
+
+/* Class = "UILabel"; text = "address"; ObjectID = "NMh-sJ-pzL"; */
+"NMh-sJ-pzL.text" = "address";
+
+/* Class = "UITableViewSection"; footerTitle = " "; ObjectID = "Ne6-bb-C3x"; */
+"Ne6-bb-C3x.footerTitle" = " ";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "Ne6-bb-C3x"; */
+"Ne6-bb-C3x.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "location"; ObjectID = "P2e-86-FIF"; */
+"P2e-86-FIF.text" = "location";
+
+/* Class = "UILabel"; text = "请输入有效的邮箱地址"; ObjectID = "SHH-t2-XlK"; */
+"SHH-t2-XlK.text" = "请输入有效的邮箱地址";
+
+/* Class = "UILabel"; text = "关于我们"; ObjectID = "Sq1-oz-wlg"; */
+"Sq1-oz-wlg.text" = "关于我们";
+
+/* Class = "UISegmentedControl"; Syp-pj-u7i.segmentTitles[0] = "🇨🇳"; ObjectID = "Syp-pj-u7i"; */
+"Syp-pj-u7i.segmentTitles[0]" = "🇨🇳";
+
+/* Class = "UISegmentedControl"; Syp-pj-u7i.segmentTitles[1] = "🇯🇵"; ObjectID = "Syp-pj-u7i"; */
+"Syp-pj-u7i.segmentTitles[1]" = "🇯🇵";
+
+/* Class = "UILabel"; text = "点击登录以获取更多服务"; ObjectID = "Tnm-dW-49N"; */
+"Tnm-dW-49N.text" = "点击登录以获取更多服务";
+
+/* Class = "UINavigationItem"; title = "周边推荐"; ObjectID = "UTl-7h-dQJ"; */
+"UTl-7h-dQJ.title" = "周边推荐";
+
+/* Class = "UIButton"; normalTitle = "景点识别"; ObjectID = "Uar-JO-gWS"; */
+"Uar-JO-gWS.normalTitle" = "景点识别";
+
+/* Class = "UILabel"; text = "price"; ObjectID = "Ugv-yi-0Kd"; */
+"Ugv-yi-0Kd.text" = "price";
+
+/* Class = "UILabel"; text = "密码"; ObjectID = "W7o-Dd-Ao0"; */
+"W7o-Dd-Ao0.text" = "密码";
+
+/* Class = "UILabel"; text = "重复密码"; ObjectID = "WJk-H4-BSm"; */
+"WJk-H4-BSm.text" = "重复密码";
+
+/* Class = "UINavigationItem"; title = "景点识别"; ObjectID = "ZSe-23-h95"; */
+"ZSe-23-h95.title" = "景点识别";
+
+/* Class = "UINavigationItem"; title = "在线翻译"; ObjectID = "a7b-VE-Qgh"; */
+"a7b-VE-Qgh.title" = "在线翻译";
+
+/* Class = "UIViewController"; title = "登录"; ObjectID = "alW-CK-0XD"; */
+"alW-CK-0XD.title" = "登录";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "au4-Bn-bGj"; */
+"au4-Bn-bGj.title" = "我的";
+
+/* Class = "UITabBarItem"; title = "功能"; ObjectID = "c42-oy-lcJ"; */
+"c42-oy-lcJ.title" = "功能";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "cQX-rI-3qq"; */
+"cQX-rI-3qq.text" = "Location";
+
+/* Class = "UISegmentedControl"; dTJ-2y-024.segmentTitles[0] = "中→日"; ObjectID = "dTJ-2y-024"; */
+"dTJ-2y-024.segmentTitles[0]" = "中→日";
+
+/* Class = "UISegmentedControl"; dTJ-2y-024.segmentTitles[1] = "日→中"; ObjectID = "dTJ-2y-024"; */
+"dTJ-2y-024.segmentTitles[1]" = "日→中";
+
+/* Class = "UINavigationItem"; title = "识别结果"; ObjectID = "dkN-G5-SEy"; */
+"dkN-G5-SEy.title" = "识别结果";
+
+/* Class = "UILabel"; text = "hot_level"; ObjectID = "eQw-EW-0Qp"; */
+"eQw-EW-0Qp.text" = "hot_level";
+
+/* Class = "UITabBarItem"; title = "Translate"; ObjectID = "fGu-VS-aPq"; */
+"fGu-VS-aPq.title" = "Translate";
+
+/* Class = "UILabel"; text = "e-mail地址"; ObjectID = "g02-eL-HnT"; */
+"g02-eL-HnT.text" = "e-mail地址";
+
+/* Class = "UITabBarItem"; title = "推荐"; ObjectID = "g3l-6h-EWr"; */
+"g3l-6h-EWr.title" = "推荐";
+
+/* Class = "UIViewController"; title = "我的详情"; ObjectID = "haz-NU-udk"; */
+"haz-NU-udk.title" = "我的详情";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "hjp-p5-Bnk"; */
+"hjp-p5-Bnk.normalTitle" = "注册";
+
+/* Class = "UINavigationItem"; title = "我的"; ObjectID = "hzQ-sO-I7u"; */
+"hzQ-sO-I7u.title" = "我的";
+
+/* Class = "UILabel"; text = "验证码"; ObjectID = "iWc-JL-Eeo"; */
+"iWc-JL-Eeo.text" = "验证码";
+
+/* Class = "UILabel"; text = "请确保两次输入的密码一致"; ObjectID = "j3z-S4-2K0"; */
+"j3z-S4-2K0.text" = "请确保两次输入的密码一致";
+
+/* Class = "UILabel"; text = "distance"; ObjectID = "jvD-DE-djs"; */
+"jvD-DE-djs.text" = "distance";
+
+/* Class = "UILabel"; text = "Source"; ObjectID = "kiw-az-kjk"; */
+"kiw-az-kjk.text" = "Source";
+
+/* Class = "UILabel"; text = "给我评分"; ObjectID = "knE-Rj-FEm"; */
+"knE-Rj-FEm.text" = "给我评分";
+
+/* Class = "UITextView"; text = "寒假余额不足，请及时充值。"; ObjectID = "lEr-Pk-4s6"; */
+"lEr-Pk-4s6.text" = "寒假余额不足，请及时充值。";
+
+/* Class = "UITextView"; text = "describe"; ObjectID = "lID-ns-9by"; */
+"lID-ns-9by.text" = "describe";
+
+/* Class = "UILabel"; text = "语言选择"; ObjectID = "nhH-q3-2jN"; */
+"nhH-q3-2jN.text" = "语言选择";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "oYw-3w-R24"; */
+"oYw-3w-R24.text" = "id";
+
+/* Class = "UILabel"; text = "点击获取验证码后，前往邮箱查看"; ObjectID = "oiZ-vJ-07j"; */
+"oiZ-vJ-07j.text" = "点击获取验证码后，前往邮箱查看";
+
+/* Class = "UILabel"; text = "未登录"; ObjectID = "ou7-97-49D"; */
+"ou7-97-49D.text" = "未登录";
+
+/* Class = "UILabel"; text = "意见反馈"; ObjectID = "py4-qd-nvB"; */
+"py4-qd-nvB.text" = "意见反馈";
+
+/* Class = "UILabel"; text = "注册后，您将获得更多服务"; ObjectID = "qKq-Ur-Jnt"; */
+"qKq-Ur-Jnt.text" = "注册后，您将获得更多服务";
+
+/* Class = "UITableViewSection"; footerTitle = " "; ObjectID = "t9z-e4-wCg"; */
+"t9z-e4-wCg.footerTitle" = " ";
+
+/* Class = "UITableViewSection"; footerTitle = " "; ObjectID = "u0s-z1-myy"; */
+"u0s-z1-myy.footerTitle" = " ";
+
+/* Class = "UILabel"; text = "请输入六位以上的英文或数字"; ObjectID = "v00-fm-P3K"; */
+"v00-fm-P3K.text" = "请输入六位以上的英文或数字";
+
+/* Class = "UILabel"; text = "还未注册自游助手？"; ObjectID = "vLw-5I-nQx"; */
+"vLw-5I-nQx.text" = "还未注册自游助手？";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "vaW-C7-1nT"; */
+"vaW-C7-1nT.normalTitle" = "登录";
